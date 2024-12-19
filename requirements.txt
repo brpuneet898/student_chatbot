@@ -1,0 +1,9 @@
+streamlit
+langchain-groq
+langchain-community
+pdfplumber
+sentence-transformers
+pypdf
+faiss-cpu
+supabase
+streamlit-analytics
