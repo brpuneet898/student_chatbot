@@ -57,8 +57,8 @@ def save_session_to_supabase(email, name, chat_history):
             return False
     return True
 
-st.title("BDM Chatbot")
-st.write("Ask questions directly based on the preloaded BDM documents.")
+st.title("Student Chatbot")
+st.write("Ask questions directly based on the preloaded documents.")
 st.write("Note - Once your queries are complete, please put the last query as \"stop\".")
 st.write("Disclaimer - All data, including questions and answers, is collected for improving the bot’s functionality. By using this bot, you consent to this data being stored.")
 
